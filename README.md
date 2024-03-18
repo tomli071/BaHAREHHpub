@@ -1,0 +1,1 @@
+Stan code and R script to run BaHAREHH analyses for Vulpes vulpes on either previous (usenew=FALSE) or updated (usenew=TRUE) EHL. The directory in setwd should be changed to wherever the files are stored locally. 
